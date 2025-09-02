@@ -1,6 +1,5 @@
 import Delta from "./Delta"
 
-
 function App() {
 
   return (
