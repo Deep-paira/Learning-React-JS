@@ -32,8 +32,10 @@ function App() {
     <>
       <h1>I am DELTA</h1>
       <h2>Counter value: {counter}</h2>
+      <br />
 
       <button onClick={addvalue}> Add value </button>
+      <br />
       <br />
       <button onClick={removeValue}> Remove value </button>
       <p>footer: {counter} </p>
